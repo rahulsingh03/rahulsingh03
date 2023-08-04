@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Singh Bisht
-- 👀 I’m interested in development of API's & Apps.
-- 🌱 I’m currently learning Flutter
+- 👀 I’m enjoy building API's & Apps.
+- 🌱 I’m currently learning React-Native.
 - 📫 Reach me at rsb55426@gmail.com
 
 <!---
