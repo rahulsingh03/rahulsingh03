@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rahul Singh Bisht
-- 👀 I’m enjoy building API's & Apps.
+- 👋 Hi,
+- 👀 I enjoy building API's & Apps.
 - 🌱 I’m currently learning React-Native.
 - 📫 Reach me at rsb55426@gmail.com
 
